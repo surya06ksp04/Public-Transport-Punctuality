@@ -36,6 +36,6 @@ This project integrates:
 
 Create a file named .env in the project root:
 
-TRANSPORT_API_APP_ID=your_transportapi_app_id
-TRANSPORT_API_APP_KEY=your_transportapi_app_key
-WEATHER_API_KEY=your_openweather_api_key
+- TRANSPORT_API_APP_ID=your_transportapi_app_id
+- TRANSPORT_API_APP_KEY=your_transportapi_app_key
+- WEATHER_API_KEY=your_openweather_api_key
