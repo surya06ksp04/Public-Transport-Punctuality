@@ -28,11 +28,11 @@ This project integrates:
 ---
 
 ## Project Structure
-├── punctuality_tracker.py # Main Python script
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-├── .gitignore # Ignore sensitive files
-└── .env # API keys (NOT uploaded to GitHub)
+- punctuality_tracker.py # Main Python script
+- requirements.txt # Python dependencies
+- README.md # Project documentation
+- .gitignore # Ignore sensitive files
+- .env # API keys (NOT uploaded to GitHub)
 
 Create a file named .env in the project root:
 
